@@ -9,3 +9,6 @@ Mahasiswas.Add(new Mahasiswa { Id = 2, Nama = "Budi", Alamat = "Jalan baru" });
 Mahasiswas.Add(new Mahasiswa { Id = 3, Nama = "Rahmat", Alamat = "Jalan baru" });
 Mahasiswas.Add(new Mahasiswa { Id = 5, Nama = "Nacing", Alamat = "Jalan baru" });
 
+
+
+
