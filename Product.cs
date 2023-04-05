@@ -1,6 +1,8 @@
-class Produdcts
+class Produdct
 {
-    string name;
-    string price;
-    string stok;
+    string name { get; set; }
+    string price { get; set; }
+    string stok { get; set; }
+    string id { get; set; }
+
 }
