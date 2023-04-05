@@ -5,10 +5,10 @@ public class Mahasiswa
     public string Alamat { get; set; }
 
 
-    public Mahasiswa(int id, string nama, string alamat)
-    {
-        Id = id;
-        Nama = nama;
-        Alamat = alamat;
-    }
+    // public Mahasiswa(int id, string nama, string alamat)
+    // {
+    //     Id = id;
+    //     Nama = nama;
+    //     Alamat = alamat;
+    // }
 }
